@@ -1,16 +1,18 @@
 export const Data = {
   profile: {
-    name: "Stu Le Roux",
-    ocupation: "Full Time Sex Symbol",
+    name: "STUART FRANCOIS LE ROUX",
+    ocupation: "MANAGER | RETAIL INTELLIGENCE",
     location: "Cape Town, South Africa",
-    email: "lagos.matias25@gmail.com",
-    telephone: "+56 971999705",
+    email: "stuartleroux@gmail.com",
+    telephone: "+27 76 5040 871",
     image: "images/stuuuu.jpg",
   },
   aboutMe: {
-    label: "Perfil",
+    label: "PROFESSIONAL SUMMARY",
     description:
-      "Analista Programador, capacitado para desarrollar aplicaciones informáticas en diversas tecnologías y múltiples lenguajes de programación, aplicando metodologías ágiles de desarrollo, incluyendo identificación de necesidades y diseños de sistemas basados en modelos de desarrollo.",
+      "I am a data-driven, process-oriented client success manager with a portfolio of the largest retailers in South Africa. With a background in information systems and logistics, I have been a part of NIQ’s Retail Intelligence team since 2020.
+
+The Retail Intelligence Team exists to own NIQ’s relationship with retail clients in the market. This function is important because the NIQ RMS (Retail Measurement Services) product is based on the collation of retailer datasets to create a benchmark that accurately represents the Modern Trade market. This in turn, is used to provide market share performance and insights to both manufacturer and retail clients to make informed business decisions.",
   },
   skills: {
     technicalLabel: "Tecnologías",
@@ -27,10 +29,10 @@ export const Data = {
       "Git",
     ],
     softSkills: [
-      "Capacidad de análisis",
-      "Resolución de Problemas",
-      "Pensamiento Crítico",
-      "Trabajo en equipo",
+      "Leadership",
+      "Project Management",
+      "Process Engineering",
+      "Public Speaking",
       "Comunicación",
       "Proactividad",
       "Creatividad",
