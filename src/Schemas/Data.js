@@ -1,7 +1,7 @@
 export const Data = {
   profile: {
     name: "STUART FRANCOIS LE ROUX",
-    ocupation: "MANAGER | RETAIL INTELLIGENCE",
+    ocupation: "CLIENT MANAGER | RETAIL INTELLIGENCE",
     location: "Cape Town, South Africa",
     email: "stuartleroux@gmail.com",
     telephone: "+27 76 5040 871",
@@ -15,7 +15,7 @@ export const Data = {
 The Retail Intelligence Team exists to own NIQ’s relationship with retail clients in the market. This function is important because the NIQ RMS (Retail Measurement Services) product is based on the collation of retailer datasets to create a benchmark that accurately represents the Modern Trade market. This in turn, is used to provide market share performance and insights to both manufacturer and retail clients to make informed business decisions.",
   },
   skills: {
-    technicalLabel: "Tecnologías",
+    technicalLabel: "Skills",
     softLabel: "Skills",
     technicalSkills: [
       "Angular",
